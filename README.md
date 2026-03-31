@@ -75,11 +75,3 @@ This repository contains a comprehensive set of **frontend developer interview q
 - Code quality, Git workflows, styling & UI systems  
 - Real-world scenario-based answers included in `/advanced` folder
 
----
-
-## How to Use
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/yourusername/frontend-interview-prep.git
